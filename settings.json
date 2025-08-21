@@ -1,0 +1,118 @@
+{
+  "openInExplorerLimit": 10,
+  "useCustomPath": false,
+  "customPath": "",
+  "viewMode": "grid",
+  "sortOptions": {
+    "sortBy": "dateAdded",
+    "sortOrder": "desc"
+  },
+  "filters": {
+    "type": [
+      "application",
+      "video",
+      "scene",
+      "web"
+    ],
+    "rating": [
+      "everyone"
+    ]
+  },
+  "autoHideAdultContent": true,
+  "vfsDisabled": false,
+  "enableBatchMove": false,
+  "enableExperimentalDecompression": true,
+  "bandizipPath": "",
+  "cheatEnginePath": "",
+  "commonPaths": [],
+  "playerSettings": {
+    "volume": 0.09,
+    "playMode": "loop"
+  },
+  "enableDeletion": false,
+  "commonPasswords": [],
+  "wallpaperEnginePath": "",
+  "wallpaperLibraries": [],
+  "presetTags": [
+    {
+      "groupName": "引擎",
+      "tags": [
+        {
+          "name": "RPG Maker",
+          "color": "#7B68EE"
+        },
+        {
+          "name": "Unity",
+          "color": "#4682B4"
+        },
+        {
+          "name": "Ren'Py",
+          "color": "#FF69B4"
+        }
+      ]
+    },
+    {
+      "groupName": "类型",
+      "tags": [
+        {
+          "name": "视觉小说",
+          "color": "#20B2AA"
+        },
+        {
+          "name": "ACT",
+          "color": "#3CB371"
+        },
+        {
+          "name": "SLG",
+          "color": "#48D1CC"
+        },
+        {
+          "name": "RPG",
+          "color": "#32CD32"
+        },
+        {
+          "name": "模拟经营",
+          "color": "#66CDAA"
+        },
+        {
+          "name": "沙盒",
+          "color": "#F4A460"
+        }
+      ]
+    },
+    {
+      "groupName": "玩法/特性",
+      "tags": [
+        {
+          "name": "互动触摸",
+          "color": "#FFD700"
+        },
+        {
+          "name": "NTR",
+          "color": "#FF4500"
+        },
+        {
+          "name": "战斗H",
+          "color": "#DC143C"
+        }
+      ]
+    },
+    {
+      "groupName": "技术/状态",
+      "tags": [
+        {
+          "name": "动态/Live2D",
+          "color": "#9370DB"
+        },
+        {
+          "name": "3D",
+          "color": "#8A2BE2"
+        },
+        {
+          "name": "生肉",
+          "color": "#808080"
+        }
+      ]
+    }
+  ]
+}
